@@ -1,2 +1,2 @@
 # MCP_Playground_DH
-Building and testing - Using natural language to talk to Natural Heritage collections.
+Building and testing - Using natural language to talk to cultural heritage collections.
